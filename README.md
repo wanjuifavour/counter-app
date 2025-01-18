@@ -19,7 +19,7 @@ To run the Counter App locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/wanjuifavour/counter-app.git
    ```
 
 2. **Navigate to the project directory**:
@@ -36,6 +36,9 @@ To run the Counter App locally, follow these steps:
 - Click the "CLICK ME" button to increment the counter.
 - Click the "SAVE" button to save the current count. The counter will reset to zero after saving.
 - The saved counts will be displayed below the buttons.
+
+## Live Demo
+You can view the live version of the Counter App [here](https://wanjuifavour.github.io/counter-app/).
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
